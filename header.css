@@ -1,0 +1,9 @@
+.top{
+    display: flex;
+}
+
+.nav-right {
+    flex-direction: row;
+    justify-content: flex-end;
+    grid-row: 1/2;
+}
